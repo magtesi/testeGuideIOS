@@ -1,0 +1,6 @@
+module Pods_GuideTesteMagnoni {
+  umbrella header "Pods-GuideTesteMagnoni-umbrella.h"
+
+  export *
+  module * { export * }
+}
